@@ -1,14 +1,14 @@
-const numbers = [2, 3, 4, 5, 6, 7];
+// const numbers = [2, 3, 4, 5, 6, 7];
 
-let results = numbers.map(num => num * num);
+// let results = numbers.map(num => num * num);
 
-console.log(results);
+// console.log(results);
 
 
-const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-let largerNumber = nums.filter(x => x > 6);              // filter from array
+// const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// let largerNumber = nums.filter(x => x > 6);              // filter from array
 
-console.log(largerNumber);
+// console.log(largerNumber);
 
 
 const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
